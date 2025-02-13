@@ -140,8 +140,8 @@ margin-top: 48px;
 }
 
 #about-us{
-    width: 1440px;
-    /* margin: 125.25px auto; */
+    width: 1449px;
+    margin: 125.25px auto;
     /* display: flex; */
 }
 
@@ -160,6 +160,8 @@ margin-top: 48px;
     line-height: 48px;
     letter-spacing: 0%;
     text-align: center;
+    margin-bottom: 18px;
+
 }
 #about-us .about-container .sub-title-2{
     color: rgb(16, 16, 16);
@@ -168,9 +170,9 @@ margin-top: 48px;
     font-weight: 500;
     line-height: 21px;
     letter-spacing: 0%;
-    text-align: left;
+    text-align: center;
     opacity: 0.6;
-
+    margin-bottom: 36px;
 }
 
 #about-us .about-container .follow{
@@ -185,3 +187,9 @@ margin-top: 48px;
 
 }
 
+#about-us .about-container .follow{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 30px;
+    margin-left: 0px;
+}
