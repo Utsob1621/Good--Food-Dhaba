@@ -202,6 +202,7 @@ margin-top: 48px;
 }
 
 #social{
+    color: ch;
     width: 1449px;
     margin: 125.25px auto;
 }
@@ -245,4 +246,16 @@ margin-top: 48px;
     border-bottom: 1px solid black;
     padding: 28px;
     margin-left: 0px;
+}
+
+#icons{
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+    margin: 30px auto;
+    gap: 32px;
+
+}
+#icons img{
+    width: 40px;
 }
